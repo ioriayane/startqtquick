@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/QGallery/ContentsGrid.qml</file>
+        <file>qml/QGallery/ContentsList.qml</file>
+        <file>qml/QGallery/Controller.qml</file>
+        <file>qml/QGallery/ImageView.qml</file>
+        <file>qml/QGallery/Information.qml</file>
+        <file>qml/QGallery/VideoView.qml</file>
+        <file>qml/QGallery/components/ImageButton.qml</file>
+        <file>qml/QGallery/components/Slider.qml</file>
+        <file>qml/QGallery/i18n/qml_ja_JP.qm</file>
+        <file>qml/QGallery/javascripts/Database.js</file>
+        <file>qml/QGallery/resources/button_border.png</file>
+        <file>qml/QGallery/resources/button_next.png</file>
+        <file>qml/QGallery/resources/button_pause.png</file>
+        <file>qml/QGallery/resources/button_play.png</file>
+        <file>qml/QGallery/resources/button_previous.png</file>
+        <file>qml/QGallery/resources/button_stop.png</file>
+        <file>qml/QGallery/resources/icon_folder.png</file>
+        <file>qml/QGallery/resources/icon_folder_l.png</file>
+        <file>qml/QGallery/resources/icon_image.png</file>
+        <file>qml/QGallery/resources/icon_image_l.png</file>
+        <file>qml/QGallery/resources/icon_move.png</file>
+        <file>qml/QGallery/resources/icon_move_l.png</file>
+        <file>qml/QGallery/resources/icon_music.png</file>
+        <file>qml/QGallery/resources/icon_music_l.png</file>
+        <file>qml/QGallery/resources/spin.png</file>
+        <file>qml/QGallery/resources/star.png</file>
+        <file>qml/QGallery/main.qml</file>
+    </qresource>
+</RCC>
